@@ -1,2 +1,2 @@
-# Personality-prediction
-This is a Machine Learning based personality prediction project. 
+# EMOTION DETECTION APPLICATION
+This is a Machine Learning based Emotion detection application project. 
